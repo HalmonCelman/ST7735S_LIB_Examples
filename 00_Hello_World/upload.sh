@@ -1,0 +1,1 @@
+openocd -f interface/stlink-v2.cfg -f target/stm32f3x.cfg -c "program build/Example1 verify reset exit"
