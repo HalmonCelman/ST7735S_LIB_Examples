@@ -1,3 +1,3 @@
-[submodule "00_Hello_World/External/ST7735S_LIB"]
-	path = 00_Hello_World/External/ST7735S_LIB
+[submodule "ST7735S/00_Hello_World/External/ST7735S_LIB"]
+	path = ST7735S/00_Hello_World/External/ST7735S_LIB
 	url = https://github.com/HalmonCelman/ST7735S_LIB.git

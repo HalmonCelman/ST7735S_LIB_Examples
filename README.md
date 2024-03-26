@@ -1,3 +1,8 @@
-# Examples for [ST7735S_LIB](https://github.com/HalmonCelman/ST7735S_LIB)
+# It's a repo with examples to my libraries
 
-Each example is in separate folder, see README in this folders to know how to compile etc
+all libraries are on same assupmtions:
+- high portablility
+- easy to run
+
+## Libraries:
+- [ST7735S_LIB](https://github.com/HalmonCelman/ST7735S_LIB)

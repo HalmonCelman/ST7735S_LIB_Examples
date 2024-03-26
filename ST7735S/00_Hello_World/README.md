@@ -1,5 +1,6 @@
 # 00_Hello_World
 This example fills screen with red, creates blue rectangle and shows "hello world!" text
+
 ## Compiling
 ### CMake - Linux:
 ```
@@ -22,5 +23,3 @@ cmake --build build
 ```
 ./upload.bat
 ```
-
-***Of course you can also compile it with STM32CubeIDE or other IDEs, but I recommend to learn and use CMake ;)***
